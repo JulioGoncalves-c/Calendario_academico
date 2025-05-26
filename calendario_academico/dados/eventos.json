@@ -1,0 +1,65 @@
+[
+    {
+        "titulo": "Reforço de Álgebra",
+        "data": "07/05/2025",
+        "tipo": "reforco",
+        "prioridade": "media",
+        "realizado": false
+    },
+    {
+        "titulo": "Prova de Lógica",
+        "data": "10/05/2025",
+        "tipo": "prova",
+        "prioridade": "media",
+        "realizado": false
+    },
+    {
+        "titulo": "Feriado - Dia do Estudante",
+        "data": "11/08/2025",
+        "tipo": "feriado",
+        "prioridade": "media",
+        "realizado": false
+    },
+    {
+        "titulo": "exposicao",
+        "data": "08/01/2026",
+        "tipo": "feriado",
+        "prioridade": "media",
+        "realizado": false
+    },
+    {
+        "titulo": "palestra de segurança da informaçao",
+        "data": "10/05/2026",
+        "tipo": "aula",
+        "prioridade": "media",
+        "realizado": false
+    },
+    {
+        "titulo": " calculo",
+        "data": "21/05/2025",
+        "tipo": "prova",
+        "prioridade": "alta",
+        "realizado": false
+    },
+    {
+        "titulo": "matematica",
+        "data": "11/06/2025",
+        "tipo": "aula",
+        "prioridade": "baixa",
+        "realizado": false
+    },
+    {
+        "titulo": "geografia",
+        "data": "11/12/2026",
+        "tipo": "aula",
+        "prioridade": "baixa",
+        "realizado": false
+    },
+    {
+        "titulo": "historia",
+        "data": "12/05/2025",
+        "tipo": "aula",
+        "prioridade": "media",
+        "realizado": false
+    }
+]

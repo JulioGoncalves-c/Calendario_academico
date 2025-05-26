@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "geografia",
+        "data": "08/05/2025",
+        "tipo": "aula",
+        "prioridade": "media",
+        "realizado": true
+    },
+    {
+        "titulo": "ingles",
+        "data": "16/05/2024",
+        "tipo": "aula",
+        "prioridade": "baixa",
+        "realizado": true
+    },
+    {
+        "titulo": "programaçao",
+        "data": "13/05/2025",
+        "tipo": "aula",
+        "prioridade": "baixa",
+        "realizado": false
+    }
+]
